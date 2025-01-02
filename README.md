@@ -25,3 +25,14 @@
  - 3. split    -   Test,Train 
  - 4. record data  -  in components
  - 5. sequitail arrangement -  pipeline
+
+
+ # data validation flow
+
+ - requirements.txt = PyYAML,dill
+ - config/schema.yaml
+ - utils/main_utils.py
+ - constant/training_pipeline.py
+ - entity / congig & artifact
+ - components/data_validation.py
+ - pipeline
