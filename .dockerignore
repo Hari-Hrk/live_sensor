@@ -1,0 +1,11 @@
+artifact
+saved_models
+venv
+docs
+flowcharts&pdfs
+notebooks
+.git
+aps_failure_training_set1.csv
+livefast.py
+data_drift.ipynb
+EDA.ipynb
